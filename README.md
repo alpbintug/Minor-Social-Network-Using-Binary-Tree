@@ -20,5 +20,5 @@ Remove a user and then check it's friends.
 Find the meaning of the life.
 Make cool rainbows.
 Simply walk into Mordor.
-See me
+See me.
 Make cool double rainbows.
